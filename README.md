@@ -6,7 +6,7 @@ This project aims to predict student final grades (G3) using machine learning te
 
 ## Project Achievements
 
-- **High Prediction Accuracy:** Achieved a Root Mean Squared Error (RMSE) of 3.7 on the test dataset, demonstrating strong predictive capabilities.
+- **High Prediction Accuracy:** Achieved a Root Mean Squared Error (RMSE) of 3.9 on the test dataset, demonstrating strong predictive capabilities.
 - **Robust Feature Engineering:** Developed custom feature engineering pipelines that significantly improved model performance.
 - **Comprehensive Model Comparison:** Evaluated multiple machine learning models, including Linear Regression, Decision Trees, and Random Forests, to identify the best-performing solution.
 - **Cross-Validation Stability:** Ensured model reliability through rigorous cross-validation techniques, achieving stable performance across different data subsets.
