@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to predict student final grades (G3) using machine learning techniques. By analyzing various factors, including academic performance, social habits, and demographic information, we developed a robust model capable of providing valuable insights into student success. This project showcases achievements in data preprocessing, feature engineering, model selection, and performance optimization.
+This section aims to predict student final grades (G3) using machine learning techniques. By analyzing various factors, including academic performance, social habits, and demographic information, we developed a robust model capable of providing valuable insights into student success. This project showcases achievements in data preprocessing, feature engineering, model selection, and performance optimization.
 
 ## Project Achievements
 
@@ -100,33 +100,13 @@ The dataset contains information about student performance, including:
 ## Results
 
 - **Best Model:** Random Forest
-- **Final RMSE:** 3.7
+- **Final RMSE:** 3.9
 - **Cross-validation stability:** Good
 
 ## Usage
 
-1. **Install Dependencies:**
+1. **Run Notebook:**
    ```bash
-   pip install -r requirements.txt
+   jupyter notebook lab.ipynb
    ```
 
-2. **Run Notebook:**
-   ```bash
-   jupyter notebook student_analysis.ipynb
-   ```
-
-## Dependencies
-
-- scikit-learn
-- pandas
-- numpy
-- matplotlib
-- jupyter
-
-## Notes
-
-- Ensure consistent feature counts between train and test datasets to prevent errors.
-- Monitor cross-validation stability to ensure model reliability.
-- Check for data leakage during preprocessing to avoid overfitting.
-
-This project demonstrates the successful application of machine learning techniques to predict student performance, providing valuable insights for educators and policymakers. The achievements in data preprocessing, feature engineering, and model selection highlight the effectiveness of the implemented methodologies.
